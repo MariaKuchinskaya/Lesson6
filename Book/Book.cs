@@ -26,5 +26,10 @@ namespace Models
         {
             return _name;
         }
+
+        public int GetBookPages()
+        {
+            return _pagesCount;
+        }
     }
 }

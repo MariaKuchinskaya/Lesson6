@@ -46,7 +46,7 @@ namespace Models
                 
             }
 
-            return null;
+            return biggestBook;
         }
 
     }
